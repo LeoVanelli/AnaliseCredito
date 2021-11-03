@@ -1,13 +1,13 @@
-# Insira aqui o nome do exercício
+# AnaliseCredito
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
-  
+* 🖥️ Exercício: Decisão e operações lógicas (11) - AnaliseCredito
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md
+
 ## Enunciado
-  
-Insira aqui a descrição do exercício
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Um cliente quer solicitar um empréstimo. Receba o valor solicitado, a quantidade de parcelas desejada e a renda mensal comprovada. Só autorize empréstimos cuja parcela não ultrapasse 30% da renda (desconsidere os juros).
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
